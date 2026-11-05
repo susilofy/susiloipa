@@ -1,0 +1,8 @@
+{
+  "name": "Tes Sumatif tka IPA",
+  "description": "Aplikasi Tes Sumatif IPAS Materi Rangka, Sendi, dan Otot (Alat Gerak Aktif dan Pasif) dengan 30 butir soal terstandarisasi, KKTP 60, visualisasi anatomi, sinkronisasi Google Spreadsheet, dan panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
